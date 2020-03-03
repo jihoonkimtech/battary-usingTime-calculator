@@ -1,0 +1,9 @@
+D:\개인 프로젝트\(고2) 사용시간계산기간소화\UsedTimeCal\bin\Release\UsedTimeCal.exe.config
+D:\개인 프로젝트\(고2) 사용시간계산기간소화\UsedTimeCal\bin\Release\UsedTimeCal.exe
+D:\개인 프로젝트\(고2) 사용시간계산기간소화\UsedTimeCal\bin\Release\UsedTimeCal.pdb
+D:\개인 프로젝트\(고2) 사용시간계산기간소화\UsedTimeCal\obj\Release\UsingTimeCal.csprojAssemblyReference.cache
+D:\개인 프로젝트\(고2) 사용시간계산기간소화\UsedTimeCal\obj\Release\UsedTimeCal.Form1.resources
+D:\개인 프로젝트\(고2) 사용시간계산기간소화\UsedTimeCal\obj\Release\UsedTimeCal.Properties.Resources.resources
+D:\개인 프로젝트\(고2) 사용시간계산기간소화\UsedTimeCal\obj\Release\UsingTimeCal.csproj.GenerateResource.cache
+D:\개인 프로젝트\(고2) 사용시간계산기간소화\UsedTimeCal\obj\Release\UsedTimeCal.exe
+D:\개인 프로젝트\(고2) 사용시간계산기간소화\UsedTimeCal\obj\Release\UsedTimeCal.pdb
