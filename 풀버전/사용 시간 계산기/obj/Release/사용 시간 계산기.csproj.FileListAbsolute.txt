@@ -1,0 +1,17 @@
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\bin\Release\UsingTimeCalculator.exe.config
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\bin\Release\UsingTimeCalculator.exe
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\bin\Release\UsingTimeCalculator.pdb
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MAIN.resources
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\UsingTimeCalculator.Properties.Resources.resources
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\사용 시간 계산기.csproj.GenerateResource.cache
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\UsingTimeCalculator.exe
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\UsingTimeCalculator.pdb
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\bin\Release\UsingTimeCalculator.exe.config
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\bin\Release\UsingTimeCalculator.exe
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\bin\Release\UsingTimeCalculator.pdb
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Release\사용 시간 계산기.csprojAssemblyReference.cache
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Release\WindowsFormsApp1.MAIN.resources
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Release\UsingTimeCalculator.Properties.Resources.resources
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Release\사용 시간 계산기.csproj.GenerateResource.cache
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Release\UsingTimeCalculator.exe
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Release\UsingTimeCalculator.pdb

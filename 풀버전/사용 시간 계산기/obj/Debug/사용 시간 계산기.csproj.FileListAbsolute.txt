@@ -1,0 +1,9 @@
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\bin\Debug\UsingTimeCalculator.exe.config
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\bin\Debug\UsingTimeCalculator.exe
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\bin\Debug\UsingTimeCalculator.pdb
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Debug\사용 시간 계산기.csprojAssemblyReference.cache
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Debug\WindowsFormsApp1.MAIN.resources
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Debug\UsingTimeCalculator.Properties.Resources.resources
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Debug\사용 시간 계산기.csproj.GenerateResource.cache
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Debug\UsingTimeCalculator.exe
+D:\개인 프로젝트\(고2) 사용 시간 계산기 프로그램\사용 시간 계산기\obj\Debug\UsingTimeCalculator.pdb

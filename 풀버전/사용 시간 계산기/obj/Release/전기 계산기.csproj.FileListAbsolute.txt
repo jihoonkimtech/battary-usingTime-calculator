@@ -1,0 +1,9 @@
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MAIN.resources
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\전기 계산기.csproj.GenerateResource.cache
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+D:\김지훈\개인 프로젝트\전기 계산기\WindowsFormsApp1\obj\Release\전기 계산기.csprojAssemblyReference.cache
